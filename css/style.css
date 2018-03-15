@@ -960,11 +960,11 @@ h3.agileits-title.agileits-title2 {
     padding: 1.5em;
     font-size: 14px;
     line-height: 1.8em;
-    color: #999;
+    color: #444;
     background: #efefef;
 } 
 .panel-body h5 {
-    color: #333;
+    color: #000;
     font-size: 1.2em;
     margin-bottom: .5em;
 }
